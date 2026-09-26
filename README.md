@@ -1,5 +1,5 @@
 Toxic Comment Classification project
-# This is the first version of this project, that I will modify and it.
+# This is the first version of this project, that I will modify and optimize it.
 
 
 A multi-label text classification project for detecting toxic comments. The model analyzes text and predicts whether it contains one or more of the following categories:
